@@ -1,0 +1,225 @@
+.high{
+    border-radius: 60px;
+    
+}
+
+.blow{
+    height: 500px;
+    width: 1250px;
+}
+.parent{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    
+    
+    
+}
+.child1{
+    height: 450px;
+    width: 780px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+    border-radius: 30px;
+    background-image: url(i1.jpg);
+    background-size: cover;
+    
+    
+}
+.child2{
+    height: 450px;
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    border-radius: 30px;
+    background-image: url(i5.jpg);
+    background-size: cover;
+    
+   
+    
+}
+
+.go{
+    height: 500px;
+    width: 1200px;
+    
+}
+
+.parent1{
+    height: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    
+    
+    
+}
+.child3{
+    height: 550px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+
+    background-image: url();
+    background-size: cover;
+    
+    
+}
+.child4{
+    height: 550px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+    
+    
+    
+   
+}
+.child5{
+    height: 450px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    border-radius: 30px;
+    background-image: url(m2.webp);
+    background-size: contain;
+    
+   
+}
+
+.col6{
+height: 400px;
+width: 1300px;
+border-radius: 30px;
+background-image: url(d4.jpg);
+background-size: contain;
+}
+
+.col7{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    background-image: url(d2.jpg);
+    background-size: cover;
+}
+
+.col10{
+    height: 350px;
+    width: 300px;
+    border-radius: 15px;
+    background-image: url(tap4.jpg);
+    background-size: cover;
+    
+
+}
+
+.col11{
+    height: 350px;
+    width: 300px;
+    border-radius: 15px;
+    background-image:url(g4.jpg); 
+    background-size: cover;  
+}
+
+.col12{
+    height: 350px;
+    width: 300px;
+    border-radius: 15px;
+    background-image:url(w9.webp); 
+    background-size: cover;
+ 
+}
+
+.col13{
+    height: 350px;
+    width: 300px;
+    border-radius: 15px;
+    background-image:url(w8.jpg); 
+    background-size: cover;
+}
+
+.card21{
+   background-color: yellow;
+   border-radius: 50px;
+    
+    
+
+}
+
+.card20{
+    background-color: red;
+    border-radius: 20px;
+     
+     
+ 
+ }
+
+ .card22{
+    
+    border-radius: 10px;  
+ 
+ }
+
+
+.ok{
+    border-radius: 10px;
+    height: 100px;
+    
+}
+
+.col90{
+    height: 200px;
+    width: 1300px;
+    border-radius: 30px;
+    
+}
+
+.col91{
+    height: 400px;
+    width: 1300px;
+    
+    
+}
+
+.on{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.child93{
+    height: 300px;
+    width: 600px;
+    
+    
+}
+
+.child94{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.to{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    background-color: bisque;
+
+}
+
+
+body{
+    background-color: ;
+}
+
